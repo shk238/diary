@@ -21,6 +21,9 @@ diary
 　2. Android Studioでプロジェクトを開きます。
 　3. エミュレータまたは実機を接続し、実行ボタンを押してください。
 
+URL
+https://www.youtube.com/shorts/sV1F3sq_kHI
+
 
 
 ---------------------------------------------------------------------
@@ -49,4 +52,7 @@ Setup / How to Run
 　Open the project in Android Studio.
 　2. Connect an emulator or a physical device.
 　3. Click the "Run" button to build and launch the app.
+
+URL
+https://www.youtube.com/shorts/sV1F3sq_kHI
 
